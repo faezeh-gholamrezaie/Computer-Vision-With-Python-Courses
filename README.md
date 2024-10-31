@@ -5,4 +5,4 @@
 - [Math Operations](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C1-NumPy/numpy_array_math_operations.ipynb)
 - [Boolean Operations](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C1-NumPy/Boolean_Operations.ipynb)
 - [Binary Images, Grayscale Images, Color Images, Multispectral Images](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C1-NumPy/Type_of_image.ipynb)
-- [AlexNet]()
+- [AlexNet](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C1-NumPy/AlexNet.ipynb)
