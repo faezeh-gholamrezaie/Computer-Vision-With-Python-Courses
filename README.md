@@ -9,4 +9,4 @@
 
 ## **[Course 2 : Basic Computer Vision Techniques with OpenCV](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/tree/main/C2-OpenCV)**<br> 
 - [Noise Reduction and Image Resolution Enhancement](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C2-OpenCV/Noise_Reduction_and_Image_Resolution_Enhancement.ipynb)
-- - [Edge Detection](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C2-OpenCV/Edge_Detection.ipynb)
+- [Edge Detection](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C2-OpenCV/Edge_Detection.ipynb)
