@@ -12,4 +12,4 @@
 - [Image Rectangle Grid](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C2-OpenCV/Image_Rectangle_Grid.ipynb)
 
 ## **[Course N : Deep Learning for Image Recognition](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/tree/main/Cn-Deep%20Learning)**<br> 
-- [AlexNet](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/Cn-Deep%20Learning/AlexNet.ipynb)
+- [AlexNet-CIFAR-10](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/Cn-Deep%20Learning/AlexNet.ipynb)
