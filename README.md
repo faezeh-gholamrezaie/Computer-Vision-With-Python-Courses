@@ -11,7 +11,7 @@
 ### **Image Basics**
 - [Noise Reduction and Image Resolution Enhancement](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C2-OpenCV/Noise_Reduction_and_Image_Resolution_Enhancement.ipynb)
 - [Image Rectangle Grid](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/C2-OpenCV/Image_Rectangle_Grid.ipynb)
-- 
+
 ### **video Basics**
 ## **[Course N : Deep Learning for Image Recognition](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/tree/main/Cn-Deep%20Learning)**<br> 
 
