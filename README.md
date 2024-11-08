@@ -17,3 +17,6 @@
 
 ### **Image Classificatio**
 - [AlexNet-CIFAR-10](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/Cn-Deep%20Learning/AlexNet-CIFAR-10.ipynb)
+
+### **Object Detection**
+- [YOLO Algorithm]
