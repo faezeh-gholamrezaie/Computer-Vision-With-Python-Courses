@@ -14,4 +14,4 @@
 ### **video Basics**
 
 ## **[Course N : Deep Learning for Image Recognition](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/tree/main/Cn-Deep%20Learning)**<br> 
-- [AlexNet-CIFAR-10](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/Cn-Deep%20Learning/AlexNet.ipynb)
+- [AlexNet-CIFAR-10](https://github.com/faezeh-gholamrezaie/Computer-Vision-With-Python-Courses/blob/main/Cn-Deep%20Learning/AlexNet-CIFAR-10.ipynb)
