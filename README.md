@@ -20,4 +20,4 @@
 - [ResNet]
 
 ### **Object Detection**
-- [YOLO Algorithm]
+- [YOLO11]
